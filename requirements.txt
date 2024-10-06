@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain-ollama
+requests
+beautifulsoup4
+pyttsx3
+speechrecognition
+pydantic
